@@ -5,6 +5,8 @@ Classifying Vegetables using ResNet50 and ImageDataGenerator with 97% accuracy o
 
 Can have some uses for a automated supermarket cashier machine that recognizes products, but it is mostly a educational project in its current form
 
+instructions to download the data are provided on the notebook, dump the vegetable-image-dataset file you download on data
+
 Project Organization
 ------------
 
